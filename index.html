@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+<h2>Read The Holy Qurna in Arabic, Amharic and English Languages</h2>
+
+<img src="1_1.png" alt="1_1.png" style="width:50%;">
+<p style="text-align:Center;">
+(1) በአላህ ስም እጅግ በጣም ሩኅሩህ በጣም አዛኝ በኾነው፡፡	<br> (In the name of Allah, the Most Compassionate, the Most Merciful.)</p>
+
+<img src="1_2.png" style="width:50%;">
+<p style="text-align:Center;"> (2) ምስጋና ለአላህ ይገባው የዓለማት ጌታ ለኾነው፤
+<br> All praise be to Allah, the Lord of the worlds, </p>
+<img src="1_3.png" style="width:50%;">
+<p style="text-align:Center;"> (3) እጅግ በጣም ርኅሩህ በጣም አዛኝ
+<br> the Most Compassionate, the Most Merciful, </p>
+<img src="1_4.png" style="width:50%;">
+<p style="text-align:Center;"> (4) የፍርዱ ቀን ባለቤት ለኾነው፡፡
+<br> Master of the Day of Judgment. </p>
+
+<img src="1_5.png" style="width:50%;">
+<p style="text-align:Center;"> (5) አንተን ብቻ እንግገዛለን፤ አንተንም ብቻ እርዳታን እንለምናለን፡፡	<br> You alone we worship, and You alone we ask for help. </p>
+
+<img src="1_6.png" style="width:50%;">
+<p style="text-align:Center;"> (6) ቀጥተኛውን መንገድ ምራን፡፡
+<br> Guide us to the straight path, </p>
+
+<img src="1_7.png" style="width:50%;">
+<p style="text-align:Center;"> (7) የእነዚያን በነርሱ ላይ በጎ የዋልክላቸውን በነሱ ላይ <br> ያልተቆጣህባቸውንና ያልተሳሳቱትንም ሰዎች መንገድ (ምራን፤ በሉ)፡፡
+<br>
+</body>
+</html>
